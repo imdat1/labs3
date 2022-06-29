@@ -1,6 +1,7 @@
 body{
     min-width: 800px;
     min-height: 600px;
+    background-color: white;
 }
 .stuff{
     background-image: linear-gradient(#95BA27, #7a9821);
